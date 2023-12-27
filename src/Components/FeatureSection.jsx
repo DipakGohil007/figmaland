@@ -48,7 +48,7 @@ const FeatureSection = () => {
 
       {/* play-content */}
       <div
-        className="h-[215px] sm:h-[400px] lg:h-[658px] w-full flex justify-center items-center bg-[url('./src/assets/images/video-bg.jpg')] bg-cover bg-center rounded-[40px] md:rounded-[81px] "
+        className="h-[215px] sm:h-[400px] lg:h-[658px] w-full flex justify-center items-center bg-[url('../src/assets/images/video-bg.jpg')] bg-cover bg-center rounded-[40px] md:rounded-[81px] "
         style={{ boxShadow: "0px 8.148px 63.145px 0px rgba(0, 0, 0, 0.15)" }}
       >
         <div className="h-[60px] md:h-[187px] w-[60px] md:w-[187px] flex justify-center items-center bg-[#2091F9] rounded-full cursor-pointer hover:scale-95 duration-300">
