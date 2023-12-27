@@ -84,7 +84,7 @@ const Navbar = () => {
 
       {/* Responsive Menu */}
       <ul
-        className={`absolute top-0 h-screen w-screen flex flex-col justify-center items-center bg-[#2091F9] md:hidden gap-[40px] text-white text-[30px] duration-300
+        className={`absolute top-0 h-screen w-screen flex flex-col justify-center items-center bg-[#2091F9] md:hidden gap-[40px] text-white text-[30px] font-bold duration-300
          ${toggle ? "left-0 overflow-hidden" : "left-[-200%] overflow-auto"} `}
       >
         <li>

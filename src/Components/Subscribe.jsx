@@ -4,7 +4,7 @@ import Button from "./Button";
 
 const Subscribe = () => {
   return (
-    <div className='max-w-[1240px] mx-auto px-[20px] flex flex-col-reverse md:flex-row md:gap-[80px] lg:gap-[113px] mb-[80px] md:mb-[270px]"'>
+    <div className="max-w-[1240px] mx-auto px-[20px] flex flex-col-reverse md:flex-row md:gap-[80px] lg:gap-[113px] mb-[80px] md:mb-[270px]">
       <div className="w-full md:w-[60%]">
         <img src={Newsletter} alt="newsletter" className="max-h-[520px]" />
       </div>
